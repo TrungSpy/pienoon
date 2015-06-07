@@ -1,3 +1,6 @@
+###TrungSpy version 
+1.0.0
+
 Pie Noon   {#pie_noon_readme}
 ========
 
